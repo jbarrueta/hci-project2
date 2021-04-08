@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hci-project2/static/css/main.82a8ce73.chunk.css",
+    "main.js": "/hci-project2/static/js/main.1fdd42c1.chunk.js",
+    "main.js.map": "/hci-project2/static/js/main.1fdd42c1.chunk.js.map",
+    "runtime-main.js": "/hci-project2/static/js/runtime-main.d935bb0a.js",
+    "runtime-main.js.map": "/hci-project2/static/js/runtime-main.d935bb0a.js.map",
+    "static/css/2.fe359a49.chunk.css": "/hci-project2/static/css/2.fe359a49.chunk.css",
+    "static/js/2.fd25bef3.chunk.js": "/hci-project2/static/js/2.fd25bef3.chunk.js",
+    "static/js/2.fd25bef3.chunk.js.map": "/hci-project2/static/js/2.fd25bef3.chunk.js.map",
+    "index.html": "/hci-project2/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/hci-project2/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.82a8ce73.chunk.css.map": "/hci-project2/static/css/main.82a8ce73.chunk.css.map",
+    "static/js/2.fd25bef3.chunk.js.LICENSE.txt": "/hci-project2/static/js/2.fd25bef3.chunk.js.LICENSE.txt",
+    "static/media/logo.f70c3909.jpg": "/hci-project2/static/media/logo.f70c3909.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d935bb0a.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.fd25bef3.chunk.js",
+    "static/css/main.82a8ce73.chunk.css",
+    "static/js/main.1fdd42c1.chunk.js"
+  ]
+}
